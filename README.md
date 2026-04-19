@@ -65,3 +65,12 @@ To run this project, you will need:
 ## Notes
 
 Originally built as a uni assignment, cleaned up and reworked into something I’d actually put my name on.
+
+## Data
+
+The dataset used in this project is not included in the repository.
+
+To run this project, you will need:
+- sms_supervised_train.csv
+- sms_test.csv
+- sms_unlabelled.csv
