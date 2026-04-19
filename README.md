@@ -51,6 +51,15 @@ The pseudo-labelling part was interesting too. Small change, but shows how you c
 
 Python, Pandas, NumPy, a bit of scikit-learn, all in Jupyter.
 
+## Data
+
+The dataset used in this project is not included in the repository.
+
+To run this project, you will need:
+- sms_supervised_train.csv
+- sms_test.csv
+- sms_unlabelled.csv
+
 ---
 
 ## Notes
